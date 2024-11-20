@@ -1,0 +1,58 @@
+{
+  "permalink": "/blog/getting-started-with-ai",
+  "editUrl": "https://github.com/your-org/ai-programming-teaching/tree/main/blog/2024-01-15-getting-started-with-ai.md",
+  "source": "@site/blog/2024-01-15-getting-started-with-ai.md",
+  "title": "Getting Started with AI in Development",
+  "description": "AI is revolutionizing how we write code and manage development workflows. Here's how to get started.",
+  "date": "2024-01-15T00:00:00.000Z",
+  "formattedDate": "January 15, 2024",
+  "tags": [
+    {
+      "label": "ai",
+      "permalink": "/blog/tags/ai"
+    },
+    {
+      "label": "development",
+      "permalink": "/blog/tags/development"
+    },
+    {
+      "label": "beginners",
+      "permalink": "/blog/tags/beginners"
+    }
+  ],
+  "readingTime": 1.01,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Soma Mahesh Vardhan Kanakala",
+      "email": "maheshvardhank@gmail..com",
+      "title": "DevOps & Full Stack Developer",
+      "url": " https://github.com/mahesh-vardhan-kanakala",
+      "page": true,
+      "socials": {
+        "github": "mahesh-vardhan-kanakala",
+        "linkedin": "mahesh-vardhan-kanakala",
+        "newsletter": "https://portfolio-vite-ecru.vercel.app/"
+      },
+      "imageURL": "https://avatars.githubusercontent.com/u/136676822?v=4",
+      "key": "Soma Mahesh Vardhan Kanakala"
+    }
+  ],
+  "frontMatter": {
+    "slug": "getting-started-with-ai",
+    "title": "Getting Started with AI in Development",
+    "authors": [
+      "Soma Mahesh Vardhan Kanakala"
+    ],
+    "tags": [
+      "ai",
+      "development",
+      "beginners"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "AI Best Practices",
+    "permalink": "/blog/ai-best-practices"
+  }
+}

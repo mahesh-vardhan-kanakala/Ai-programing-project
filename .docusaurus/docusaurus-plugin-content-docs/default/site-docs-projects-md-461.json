@@ -1,0 +1,18 @@
+{
+  "id": "projects",
+  "title": "Projects",
+  "description": "Hands-on projects to apply your AI programming skills.",
+  "source": "@site/docs/projects.md",
+  "sourceDirName": ".",
+  "slug": "/projects",
+  "permalink": "/docs/projects",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/ai-programming-teaching/tree/main/docs/projects.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  }
+}

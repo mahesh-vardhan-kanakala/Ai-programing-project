@@ -1,0 +1,27 @@
+{
+  "id": "advanced/ai-applications",
+  "title": "Building AI Applications",
+  "description": "Learn to create sophisticated applications leveraging AI capabilities.",
+  "source": "@site/docs/advanced/ai-applications.md",
+  "sourceDirName": "advanced",
+  "slug": "/advanced/ai-applications",
+  "permalink": "/docs/advanced/ai-applications",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/ai-programming-teaching/tree/main/docs/advanced/ai-applications.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Markdown Best Practices",
+    "permalink": "/docs/intermediate/markdown-best-practices"
+  },
+  "next": {
+    "title": "AI Project Management",
+    "permalink": "/docs/advanced/project-management"
+  }
+}

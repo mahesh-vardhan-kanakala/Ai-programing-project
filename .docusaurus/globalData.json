@@ -1,0 +1,67 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "advanced/ai-applications",
+              "path": "/docs/advanced/ai-applications",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "advanced/project-management",
+              "path": "/docs/advanced/project-management",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "fundamentals/ai-basics",
+              "path": "/docs/fundamentals/ai-basics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "fundamentals/tools-overview",
+              "path": "/docs/fundamentals/tools-overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intermediate/markdown-best-practices",
+              "path": "/docs/intermediate/markdown-best-practices",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intermediate/workflows",
+              "path": "/docs/intermediate/workflows",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "projects",
+              "path": "/docs/projects"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

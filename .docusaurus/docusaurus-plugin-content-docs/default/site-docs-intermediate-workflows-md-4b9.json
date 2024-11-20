@@ -1,0 +1,27 @@
+{
+  "id": "intermediate/workflows",
+  "title": "AI-Assisted Development Workflows",
+  "description": "Learn how to integrate AI tools into your development process effectively.",
+  "source": "@site/docs/intermediate/workflows.md",
+  "sourceDirName": "intermediate",
+  "slug": "/intermediate/workflows",
+  "permalink": "/docs/intermediate/workflows",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/ai-programming-teaching/tree/main/docs/intermediate/workflows.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AI Tools Overview",
+    "permalink": "/docs/fundamentals/tools-overview"
+  },
+  "next": {
+    "title": "Markdown Best Practices",
+    "permalink": "/docs/intermediate/markdown-best-practices"
+  }
+}

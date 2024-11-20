@@ -1,0 +1,23 @@
+{
+  "id": "advanced/project-management",
+  "title": "AI Project Management",
+  "description": "Master the art of managing AI-enhanced development projects.",
+  "source": "@site/docs/advanced/project-management.md",
+  "sourceDirName": "advanced",
+  "slug": "/advanced/project-management",
+  "permalink": "/docs/advanced/project-management",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/ai-programming-teaching/tree/main/docs/advanced/project-management.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Building AI Applications",
+    "permalink": "/docs/advanced/ai-applications"
+  }
+}

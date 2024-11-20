@@ -1,0 +1,27 @@
+{
+  "id": "fundamentals/ai-basics",
+  "title": "AI Fundamentals",
+  "description": "Learn the basics of AI and how it can enhance your development workflow.",
+  "source": "@site/docs/fundamentals/ai-basics.md",
+  "sourceDirName": "fundamentals",
+  "slug": "/fundamentals/ai-basics",
+  "permalink": "/docs/fundamentals/ai-basics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-org/ai-programming-teaching/tree/main/docs/fundamentals/ai-basics.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction to AI Programming",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "AI Tools Overview",
+    "permalink": "/docs/fundamentals/tools-overview"
+  }
+}

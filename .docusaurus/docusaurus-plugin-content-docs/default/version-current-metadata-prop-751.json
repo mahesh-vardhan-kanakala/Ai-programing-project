@@ -1,0 +1,144 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "category",
+        "label": "Getting Started",
+        "items": [
+          {
+            "type": "link",
+            "label": "Introduction to AI Programming",
+            "href": "/docs/intro",
+            "docId": "intro",
+            "unlisted": false
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Fundamentals",
+        "items": [
+          {
+            "type": "link",
+            "label": "AI Fundamentals",
+            "href": "/docs/fundamentals/ai-basics",
+            "docId": "fundamentals/ai-basics",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "AI Tools Overview",
+            "href": "/docs/fundamentals/tools-overview",
+            "docId": "fundamentals/tools-overview",
+            "unlisted": false
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Intermediate",
+        "items": [
+          {
+            "type": "link",
+            "label": "AI-Assisted Development Workflows",
+            "href": "/docs/intermediate/workflows",
+            "docId": "intermediate/workflows",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Markdown Best Practices",
+            "href": "/docs/intermediate/markdown-best-practices",
+            "docId": "intermediate/markdown-best-practices",
+            "unlisted": false
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Advanced",
+        "items": [
+          {
+            "type": "link",
+            "label": "Building AI Applications",
+            "href": "/docs/advanced/ai-applications",
+            "docId": "advanced/ai-applications",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "AI Project Management",
+            "href": "/docs/advanced/project-management",
+            "docId": "advanced/project-management",
+            "unlisted": false
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      }
+    ]
+  },
+  "docs": {
+    "advanced/ai-applications": {
+      "id": "advanced/ai-applications",
+      "title": "Building AI Applications",
+      "description": "Learn to create sophisticated applications leveraging AI capabilities.",
+      "sidebar": "tutorialSidebar"
+    },
+    "advanced/project-management": {
+      "id": "advanced/project-management",
+      "title": "AI Project Management",
+      "description": "Master the art of managing AI-enhanced development projects.",
+      "sidebar": "tutorialSidebar"
+    },
+    "fundamentals/ai-basics": {
+      "id": "fundamentals/ai-basics",
+      "title": "AI Fundamentals",
+      "description": "Learn the basics of AI and how it can enhance your development workflow.",
+      "sidebar": "tutorialSidebar"
+    },
+    "fundamentals/tools-overview": {
+      "id": "fundamentals/tools-overview",
+      "title": "AI Tools Overview",
+      "description": "A comprehensive guide to essential AI tools for developers.",
+      "sidebar": "tutorialSidebar"
+    },
+    "intermediate/markdown-best-practices": {
+      "id": "intermediate/markdown-best-practices",
+      "title": "Markdown Best Practices",
+      "description": "Master the art of writing effective documentation using Markdown.",
+      "sidebar": "tutorialSidebar"
+    },
+    "intermediate/workflows": {
+      "id": "intermediate/workflows",
+      "title": "AI-Assisted Development Workflows",
+      "description": "Learn how to integrate AI tools into your development process effectively.",
+      "sidebar": "tutorialSidebar"
+    },
+    "intro": {
+      "id": "intro",
+      "title": "Introduction to AI Programming",
+      "description": "Welcome to the AI Programming Teaching Project! This comprehensive platform is designed to help developers effectively use AI tools and enhance their development workflows.",
+      "sidebar": "tutorialSidebar"
+    },
+    "projects": {
+      "id": "projects",
+      "title": "Projects",
+      "description": "Hands-on projects to apply your AI programming skills."
+    }
+  }
+}
