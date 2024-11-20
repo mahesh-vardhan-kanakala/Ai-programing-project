@@ -9,7 +9,7 @@ export default {
   "favicon": "img/favicon.ico",
   "url": "https://your-docusaurus-site.com",
   "baseUrl": "/",
-  "organizationName": "your-org",
+  "organizationName": "mahesh-vardhan-kanakala",
   "projectName": "ai-programming-teaching",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
@@ -26,15 +26,15 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "./sidebars.js",
-          "editUrl": "https://github.com/your-org/ai-programming-teaching/tree/main/"
+          "sidebarPath": "C:\\xampp\\htdocs\\assigments\\Ai teaching\\sidebars.js",
+          "editUrl": "https://github.com/mahesh-vardhan-kanakala/ai-programming-teaching/tree/main/"
         },
         "blog": {
           "showReadingTime": true,
-          "editUrl": "https://github.com/your-org/ai-programming-teaching/tree/main/"
+          "editUrl": "https://github.com/mahesh-vardhan-kanakala/ai-programming-teaching/tree/main/"
         },
         "theme": {
-          "customCss": "./src/css/custom.css"
+          "customCss": "C:\\xampp\\htdocs\\assigments\\Ai teaching\\src\\css\\custom.css"
         }
       }
     ]
@@ -95,7 +95,7 @@ export default {
           "title": "Community",
           "items": [
             {
-              "label": "Linkedin",
+              "label": "LinkedIn",
               "href": "https://www.linkedin.com/in/mahesh-vardhan-kanakala/"
             },
             {
