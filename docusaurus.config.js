@@ -85,11 +85,11 @@ const config = {
             items: [
               {
                 label: 'Linkedin',
-                href: 'https://Linkedin.com/mahesh-vardhan-kanakala',
+                href: 'https://www.linkedin.com/in/mahesh-vardhan-kanakala/',
               },
               {
                 label: 'Discord',
-                href: 'https://discord.com/channels/@me',
+                href: 'https://www.discord.com/channels/@me',
               },
               {
                 label: 'Telegram',

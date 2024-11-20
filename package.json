@@ -15,8 +15,8 @@
     "typecheck": "tsc"
   },
   "dependencies": {
-    "@docusaurus/core": "3.1.1",
-    "@docusaurus/preset-classic": "3.1.1",
+    "@docusaurus/core": "^3.6.2",
+    "@docusaurus/preset-classic": "^3.6.2",
     "@mdx-js/react": "^3.0.0",
     "astro": "^4.16.13",
     "clsx": "^2.0.0",
@@ -26,8 +26,8 @@
     "react-loadable": "^5.5.0"
   },
   "devDependencies": {
-    "@docusaurus/module-type-aliases": "3.1.1",
-    "@docusaurus/tsconfig": "3.1.1",
+    "@docusaurus/module-type-aliases": "^3.6.2",
+    "@docusaurus/tsconfig": "^3.1.1",
     "@docusaurus/types": "3.1.1",
     "@types/react": "^18.2.0",
     "@types/react-dom": "^18.2.0",
@@ -47,5 +47,12 @@
   },
   "engines": {
     "node": ">=18.0"
-  }
+  },
+  "description": "This project is built using Astro, a modern static site generator that allows you to create blazing-fast websites with ease.",
+  "main": "docusaurus.config.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "author": "",
+  "license": "ISC"
 }

@@ -96,11 +96,11 @@ export default {
           "items": [
             {
               "label": "Linkedin",
-              "href": "https://Linkedin.com/mahesh-vardhan-kanakala"
+              "href": "https://www.linkedin.com/in/mahesh-vardhan-kanakala/"
             },
             {
               "label": "Discord",
-              "href": "https://discord.com/channels/@me"
+              "href": "https://www.discord.com/channels/@me"
             },
             {
               "label": "Telegram",
@@ -340,6 +340,11 @@ export default {
         "autoCollapseCategories": false
       }
     },
+    "blog": {
+      "sidebar": {
+        "groupByYear": true
+      }
+    },
     "metadata": [],
     "tableOfContents": {
       "minHeadingLevel": 2,
@@ -347,6 +352,21 @@ export default {
     }
   },
   "baseUrlIssueBanner": true,
+  "future": {
+    "experimental_faster": {
+      "swcJsLoader": false,
+      "swcJsMinimizer": false,
+      "swcHtmlMinimizer": false,
+      "lightningCssMinimizer": false,
+      "mdxCrossCompilerCache": false,
+      "rspackBundler": false
+    },
+    "experimental_storage": {
+      "type": "localStorage",
+      "namespace": false
+    },
+    "experimental_router": "browser"
+  },
   "onBrokenAnchors": "warn",
   "onDuplicateRoutes": "warn",
   "staticDirectories": [
@@ -368,6 +388,9 @@ export default {
       "comments": true,
       "admonitions": true,
       "headingIds": true
+    },
+    "anchors": {
+      "maintainCase": false
     }
   }
 };

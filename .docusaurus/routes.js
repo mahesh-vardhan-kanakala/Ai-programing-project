@@ -4,126 +4,136 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', 'a62'),
+    component: ComponentCreator('/__docusaurus/debug', '5ff'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '3c3'),
+    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', 'a71'),
+    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', 'd58'),
+    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '72d'),
+    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '192'),
+    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '207'),
+    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
     exact: true
   },
   {
     path: '/blog',
-    component: ComponentCreator('/blog', 'f96'),
+    component: ComponentCreator('/blog', 'ddf'),
     exact: true
   },
   {
     path: '/blog/ai-best-practices',
-    component: ComponentCreator('/blog/ai-best-practices', 'fa4'),
+    component: ComponentCreator('/blog/ai-best-practices', 'e4d'),
     exact: true
   },
   {
     path: '/blog/archive',
-    component: ComponentCreator('/blog/archive', '555'),
+    component: ComponentCreator('/blog/archive', '182'),
+    exact: true
+  },
+  {
+    path: '/blog/authors',
+    component: ComponentCreator('/blog/authors', '0b7'),
+    exact: true
+  },
+  {
+    path: '/blog/authors/soma-mahesh-vardhan-kanakala',
+    component: ComponentCreator('/blog/authors/soma-mahesh-vardhan-kanakala', 'a99'),
     exact: true
   },
   {
     path: '/blog/tags',
-    component: ComponentCreator('/blog/tags', 'd97'),
+    component: ComponentCreator('/blog/tags', '287'),
     exact: true
   },
   {
     path: '/blog/tags/ai',
-    component: ComponentCreator('/blog/tags/ai', '8ce'),
+    component: ComponentCreator('/blog/tags/ai', '7ac'),
     exact: true
   },
   {
     path: '/blog/tags/best-practices',
-    component: ComponentCreator('/blog/tags/best-practices', 'cfe'),
+    component: ComponentCreator('/blog/tags/best-practices', 'a33'),
     exact: true
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '823'),
+    component: ComponentCreator('/docs', 'f9b'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '022'),
+        component: ComponentCreator('/docs', '0b1'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '269'),
+            component: ComponentCreator('/docs', '91f'),
             routes: [
               {
                 path: '/docs/advanced/ai-applications',
-                component: ComponentCreator('/docs/advanced/ai-applications', '768'),
+                component: ComponentCreator('/docs/advanced/ai-applications', '7d3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/advanced/project-management',
-                component: ComponentCreator('/docs/advanced/project-management', 'c19'),
+                component: ComponentCreator('/docs/advanced/project-management', 'b06'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/fundamentals/ai-basics',
-                component: ComponentCreator('/docs/fundamentals/ai-basics', 'cd9'),
+                component: ComponentCreator('/docs/fundamentals/ai-basics', 'e60'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/fundamentals/tools-overview',
-                component: ComponentCreator('/docs/fundamentals/tools-overview', '3eb'),
+                component: ComponentCreator('/docs/fundamentals/tools-overview', '820'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/intermediate/markdown-best-practices',
-                component: ComponentCreator('/docs/intermediate/markdown-best-practices', 'fbf'),
+                component: ComponentCreator('/docs/intermediate/markdown-best-practices', '8ed'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/intermediate/workflows',
-                component: ComponentCreator('/docs/intermediate/workflows', 'ed7'),
+                component: ComponentCreator('/docs/intermediate/workflows', 'bf0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/intro',
-                component: ComponentCreator('/docs/intro', 'aed'),
+                component: ComponentCreator('/docs/intro', '61d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/projects',
-                component: ComponentCreator('/docs/projects', 'e3a'),
+                component: ComponentCreator('/docs/projects', '3d0'),
                 exact: true
               }
             ]
@@ -134,7 +144,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '230'),
+    component: ComponentCreator('/', 'e5f'),
     exact: true
   },
   {

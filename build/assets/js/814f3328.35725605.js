@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkai_programming_teaching=self.webpackChunkai_programming_teaching||[]).push([[91],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"AI Best Practices","permalink":"/blog/ai-best-practices","unlisted":false,"date":"2024-01-20T00:00:00.000Z"}]}')}}]);

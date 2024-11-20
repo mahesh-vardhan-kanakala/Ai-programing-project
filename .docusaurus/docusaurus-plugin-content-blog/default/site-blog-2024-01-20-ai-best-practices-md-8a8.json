@@ -5,13 +5,14 @@
   "title": "AI Best Practices",
   "description": "AI is revolutionizing how we write code and manage development workflows. Here's how to get started.",
   "date": "2024-01-20T00:00:00.000Z",
-  "formattedDate": "January 20, 2024",
   "tags": [
     {
+      "inline": true,
       "label": "ai",
       "permalink": "/blog/tags/ai"
     },
     {
+      "inline": true,
       "label": "best-practices",
       "permalink": "/blog/tags/best-practices"
     }
@@ -24,10 +25,12 @@
       "email": "maheshvardhank@gmail..com",
       "title": "DevOps & Full Stack Developer",
       "url": "https://github.com/mahesh-vardhan-kanakala",
-      "page": true,
+      "page": {
+        "permalink": "/blog/authors/soma-mahesh-vardhan-kanakala"
+      },
       "socials": {
-        "github": "mahesh-vardhan-kanakala",
-        "linkedin": "mahesh-vardhan-kanakala",
+        "github": "https://github.com/mahesh-vardhan-kanakala",
+        "linkedin": "https://www.linkedin.com/in/mahesh-vardhan-kanakala/",
         "newsletter": "https://portfolio-vite-ecru.vercel.app/"
       },
       "imageURL": "https://avatars.githubusercontent.com/u/136676822?v=4",
