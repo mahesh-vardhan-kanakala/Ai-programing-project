@@ -10,7 +10,7 @@ To get started with the project, follow the steps below:
 ### 1. Clone the repository
 Clone this repository to your local machine:
 ```sh
-git clone https://github.com/your-username/ai-programming-project.git
+git clone https://github.com/mahesh-vardhan-kanakala/Ai-programing-project.git
 ```
 
 ### 2. Install dependencies
@@ -22,7 +22,7 @@ npm install
 ### 3. Run the project
 Start the development server:
 ```sh
-npm run dev
+npm start
 ```
 
 This will start a local server at `localhost:3000`, where you can view the AI model outputs and interact with them.
@@ -48,22 +48,15 @@ The project is organized as follows:
 
 Run these commands in your terminal from the project root:
 
-| Command               | Description                                                        |
-| --------------------- | ------------------------------------------------------------------ |
+| Command                | Description                                                         |
+| ---------------------- | ------------------------------------------------------------------- |
 | `npm install`          | Install project dependencies                                       |
+| `npm start`            | Starts the server in production mode                               |
 | `npm run dev`          | Start the development server at `localhost:3000`                   |
 | `npm run build`        | Build the project for production (`dist/` output)                  |
 | `npm run preview`      | Preview the production build locally                               |
 | `npm run test`         | Run tests for the AI model scripts or front-end components         |
 | `npm run deploy`       | Deploy the project to a hosting platform (e.g., Vercel, Netlify)   |
-
----
-
-## 📚 Resources
-
-- **Documentation**: [AI Programming Docs](https://your-link-to-docs.com)
-- **AI Models**: [Explore AI Model Implementations](https://github.com/your-username/ai-models)
-- **Community**: Join our [AI Development Discord](https://your-link-to-discord.com)
 
 ---
 
