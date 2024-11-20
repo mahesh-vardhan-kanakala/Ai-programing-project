@@ -1,10 +1,10 @@
-```markdown
+
 # AI Programming Project
 
 This project is focused on developing AI-based solutions using programming techniques and machine learning models. The aim is to implement cutting-edge AI models to solve real-world problems and explore innovative uses of AI.
 
 ## 🚀 Getting Started
-
+```markdown
 To get started with the project, follow the steps below:
 
 ### 1. Clone the repository
